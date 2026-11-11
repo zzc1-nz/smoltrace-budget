@@ -1,0 +1,47 @@
+{
+  "dataset": "kshitijthakkar/smoltrace-benchmark-v1",
+  "split": "train",
+  "n_tasks": 132,
+  "fields": [
+    "id",
+    "prompt",
+    "difficulty",
+    "agent_type",
+    "expected_tool",
+    "expected_tool_calls",
+    "expected_keywords",
+    "category",
+    "source",
+    "true_answer",
+    "true_reasoning"
+  ],
+  "by_category": {
+    "gaia": 32,
+    "math": 50,
+    "simpleqa": 50
+  },
+  "by_difficulty": {
+    "hard": 32,
+    "medium": 50,
+    "easy": 50
+  },
+  "by_agent_type": {
+    "both": 123,
+    "code": 9
+  },
+  "by_expected_tool": {
+    "multiple": 132
+  },
+  "by_source": {
+    "GAIA": 32,
+    "MATH": 50,
+    "SimpleQA": 50
+  },
+  "keywords_with": 132,
+  "keywords_without": 0,
+  "prompt_chars": {
+    "min": 29,
+    "max": 2062,
+    "mean": 202.3
+  }
+}

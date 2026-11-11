@@ -1,0 +1,99 @@
+{
+  "config": {
+    "arms": [
+      "all_high",
+      "all_low",
+      "allocated"
+    ],
+    "n_rounds": 1,
+    "policy": "by_category",
+    "token_budget": null,
+    "seed": 0,
+    "n_tasks": 3,
+    "n_candidates": 5,
+    "candidates": [
+      "quickthink-7b",
+      "balanced-13b",
+      "thorough-32b",
+      "mathwhiz-9b",
+      "tinyfast-3b"
+    ],
+    "agent_type": "tool"
+  },
+  "totals": {
+    "total_tokens": 10307104,
+    "total_cost_usd": 9.9465106,
+    "n_records": 1980,
+    "per_arm": {
+      "all_high": {
+        "total_tokens": 3791994,
+        "total_cost_usd": 6.783399,
+        "n_records": 660
+      },
+      "all_low": {
+        "total_tokens": 2723202,
+        "total_cost_usd": 0.23249295,
+        "n_records": 660
+      },
+      "allocated": {
+        "total_tokens": 3791908,
+        "total_cost_usd": 2.93061865,
+        "n_records": 660
+      }
+    }
+  },
+  "wall_ms": 86.39,
+  "rounds": [
+    {
+      "arm": "all_high",
+      "round_index": 0,
+      "run_id": "all_high-r0-19d55c28",
+      "otel_run_id": "smoltrace-budget-e7d6c7c9016a",
+      "n_records": 660,
+      "total_tokens": 3791994,
+      "total_cost_usd": 6.783399,
+      "wall_ms": 49866.28,
+      "skipped": true,
+      "paths": {
+        "records": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\records\\all_high_r0.json",
+        "leaderboard": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\leaderboard\\all_high_r0.json",
+        "allocations": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\allocations\\all_high_r0.json",
+        "run": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\runs\\all_high_r0.json"
+      }
+    },
+    {
+      "arm": "all_low",
+      "round_index": 0,
+      "run_id": "all_low-r0-66bb13ca",
+      "otel_run_id": "smoltrace-budget-e7d6c7c9016a",
+      "n_records": 660,
+      "total_tokens": 2723202,
+      "total_cost_usd": 0.23249295,
+      "wall_ms": 40510.58,
+      "skipped": true,
+      "paths": {
+        "records": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\records\\all_low_r0.json",
+        "leaderboard": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\leaderboard\\all_low_r0.json",
+        "allocations": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\allocations\\all_low_r0.json",
+        "run": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\runs\\all_low_r0.json"
+      }
+    },
+    {
+      "arm": "allocated",
+      "round_index": 0,
+      "run_id": "allocated-r0-c988932f",
+      "otel_run_id": "smoltrace-budget-e7d6c7c9016a",
+      "n_records": 660,
+      "total_tokens": 3791908,
+      "total_cost_usd": 2.93061865,
+      "wall_ms": 41781.69,
+      "skipped": true,
+      "paths": {
+        "records": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\records\\allocated_r0.json",
+        "leaderboard": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\leaderboard\\allocated_r0.json",
+        "allocations": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\allocations\\allocated_r0.json",
+        "run": "C:\\Users\\24657\\Documents\\deepseek-harness\\default-workspace\\smoltrace-budget\\artifacts\\runs\\allocated_r0.json"
+      }
+    }
+  ]
+}

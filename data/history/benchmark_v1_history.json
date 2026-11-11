@@ -1,0 +1,662 @@
+{
+  "gaia_0": {
+    "pass_rate": 0.2341,
+    "n": 8,
+    "category": "gaia"
+  },
+  "gaia_1": {
+    "pass_rate": 0.1919,
+    "n": 4,
+    "category": "gaia"
+  },
+  "gaia_2": {
+    "pass_rate": 0.2421,
+    "n": 3,
+    "category": "gaia"
+  },
+  "gaia_3": {
+    "pass_rate": 0.1675,
+    "n": 7,
+    "category": "gaia"
+  },
+  "gaia_4": {
+    "pass_rate": 0.1792,
+    "n": 4,
+    "category": "gaia"
+  },
+  "gaia_5": {
+    "pass_rate": 0.1612,
+    "n": 6,
+    "category": "gaia"
+  },
+  "gaia_6": {
+    "pass_rate": 0.238,
+    "n": 6,
+    "category": "gaia"
+  },
+  "gaia_7": {
+    "pass_rate": 0.2024,
+    "n": 3,
+    "category": "gaia"
+  },
+  "gaia_8": {
+    "pass_rate": 0.2273,
+    "n": 7,
+    "category": "gaia"
+  },
+  "gaia_9": {
+    "pass_rate": 0.2198,
+    "n": 7,
+    "category": "gaia"
+  },
+  "gaia_10": {
+    "pass_rate": 0.1779,
+    "n": 8,
+    "category": "gaia"
+  },
+  "gaia_11": {
+    "pass_rate": 0.2373,
+    "n": 4,
+    "category": "gaia"
+  },
+  "gaia_12": {
+    "pass_rate": 0.222,
+    "n": 7,
+    "category": "gaia"
+  },
+  "gaia_13": {
+    "pass_rate": 0.1639,
+    "n": 8,
+    "category": "gaia"
+  },
+  "gaia_14": {
+    "pass_rate": 0.2058,
+    "n": 4,
+    "category": "gaia"
+  },
+  "gaia_15": {
+    "pass_rate": 0.2723,
+    "n": 5,
+    "category": "gaia"
+  },
+  "gaia_16": {
+    "pass_rate": 0.1934,
+    "n": 3,
+    "category": "gaia"
+  },
+  "gaia_17": {
+    "pass_rate": 0.2691,
+    "n": 8,
+    "category": "gaia"
+  },
+  "gaia_18": {
+    "pass_rate": 0.2224,
+    "n": 6,
+    "category": "gaia"
+  },
+  "gaia_19": {
+    "pass_rate": 0.2705,
+    "n": 5,
+    "category": "gaia"
+  },
+  "gaia_20": {
+    "pass_rate": 0.2272,
+    "n": 5,
+    "category": "gaia"
+  },
+  "gaia_21": {
+    "pass_rate": 0.1772,
+    "n": 4,
+    "category": "gaia"
+  },
+  "gaia_22": {
+    "pass_rate": 0.2082,
+    "n": 4,
+    "category": "gaia"
+  },
+  "gaia_23": {
+    "pass_rate": 0.2382,
+    "n": 5,
+    "category": "gaia"
+  },
+  "gaia_24": {
+    "pass_rate": 0.2631,
+    "n": 4,
+    "category": "gaia"
+  },
+  "gaia_25": {
+    "pass_rate": 0.2457,
+    "n": 7,
+    "category": "gaia"
+  },
+  "gaia_26": {
+    "pass_rate": 0.2651,
+    "n": 7,
+    "category": "gaia"
+  },
+  "gaia_27": {
+    "pass_rate": 0.213,
+    "n": 7,
+    "category": "gaia"
+  },
+  "gaia_28": {
+    "pass_rate": 0.2603,
+    "n": 6,
+    "category": "gaia"
+  },
+  "gaia_29": {
+    "pass_rate": 0.1963,
+    "n": 4,
+    "category": "gaia"
+  },
+  "gaia_30": {
+    "pass_rate": 0.1672,
+    "n": 5,
+    "category": "gaia"
+  },
+  "gaia_31": {
+    "pass_rate": 0.2529,
+    "n": 6,
+    "category": "gaia"
+  },
+  "math_0": {
+    "pass_rate": 0.5575,
+    "n": 6,
+    "category": "math"
+  },
+  "math_1": {
+    "pass_rate": 0.603,
+    "n": 4,
+    "category": "math"
+  },
+  "math_2": {
+    "pass_rate": 0.5947,
+    "n": 5,
+    "category": "math"
+  },
+  "math_3": {
+    "pass_rate": 0.5981,
+    "n": 5,
+    "category": "math"
+  },
+  "math_4": {
+    "pass_rate": 0.6072,
+    "n": 4,
+    "category": "math"
+  },
+  "math_5": {
+    "pass_rate": 0.6482,
+    "n": 4,
+    "category": "math"
+  },
+  "math_6": {
+    "pass_rate": 0.5847,
+    "n": 3,
+    "category": "math"
+  },
+  "math_7": {
+    "pass_rate": 0.607,
+    "n": 5,
+    "category": "math"
+  },
+  "math_8": {
+    "pass_rate": 0.6314,
+    "n": 5,
+    "category": "math"
+  },
+  "math_9": {
+    "pass_rate": 0.6144,
+    "n": 6,
+    "category": "math"
+  },
+  "math_10": {
+    "pass_rate": 0.5901,
+    "n": 3,
+    "category": "math"
+  },
+  "math_11": {
+    "pass_rate": 0.6166,
+    "n": 6,
+    "category": "math"
+  },
+  "math_12": {
+    "pass_rate": 0.5497,
+    "n": 8,
+    "category": "math"
+  },
+  "math_13": {
+    "pass_rate": 0.6504,
+    "n": 7,
+    "category": "math"
+  },
+  "math_14": {
+    "pass_rate": 0.6042,
+    "n": 7,
+    "category": "math"
+  },
+  "math_15": {
+    "pass_rate": 0.5555,
+    "n": 3,
+    "category": "math"
+  },
+  "math_16": {
+    "pass_rate": 0.6083,
+    "n": 8,
+    "category": "math"
+  },
+  "math_17": {
+    "pass_rate": 0.5497,
+    "n": 6,
+    "category": "math"
+  },
+  "math_18": {
+    "pass_rate": 0.5733,
+    "n": 8,
+    "category": "math"
+  },
+  "math_19": {
+    "pass_rate": 0.6045,
+    "n": 4,
+    "category": "math"
+  },
+  "math_20": {
+    "pass_rate": 0.6503,
+    "n": 3,
+    "category": "math"
+  },
+  "math_21": {
+    "pass_rate": 0.5385,
+    "n": 5,
+    "category": "math"
+  },
+  "math_22": {
+    "pass_rate": 0.5993,
+    "n": 5,
+    "category": "math"
+  },
+  "math_23": {
+    "pass_rate": 0.6285,
+    "n": 5,
+    "category": "math"
+  },
+  "math_24": {
+    "pass_rate": 0.5604,
+    "n": 5,
+    "category": "math"
+  },
+  "math_25": {
+    "pass_rate": 0.5504,
+    "n": 3,
+    "category": "math"
+  },
+  "math_26": {
+    "pass_rate": 0.5907,
+    "n": 8,
+    "category": "math"
+  },
+  "math_27": {
+    "pass_rate": 0.5905,
+    "n": 4,
+    "category": "math"
+  },
+  "math_28": {
+    "pass_rate": 0.5663,
+    "n": 6,
+    "category": "math"
+  },
+  "math_29": {
+    "pass_rate": 0.5773,
+    "n": 4,
+    "category": "math"
+  },
+  "math_30": {
+    "pass_rate": 0.5814,
+    "n": 5,
+    "category": "math"
+  },
+  "math_31": {
+    "pass_rate": 0.6218,
+    "n": 6,
+    "category": "math"
+  },
+  "math_32": {
+    "pass_rate": 0.5836,
+    "n": 7,
+    "category": "math"
+  },
+  "math_33": {
+    "pass_rate": 0.6504,
+    "n": 7,
+    "category": "math"
+  },
+  "math_34": {
+    "pass_rate": 0.6123,
+    "n": 8,
+    "category": "math"
+  },
+  "math_35": {
+    "pass_rate": 0.6254,
+    "n": 4,
+    "category": "math"
+  },
+  "math_36": {
+    "pass_rate": 0.5362,
+    "n": 5,
+    "category": "math"
+  },
+  "math_37": {
+    "pass_rate": 0.5855,
+    "n": 8,
+    "category": "math"
+  },
+  "math_38": {
+    "pass_rate": 0.58,
+    "n": 8,
+    "category": "math"
+  },
+  "math_39": {
+    "pass_rate": 0.5598,
+    "n": 5,
+    "category": "math"
+  },
+  "math_40": {
+    "pass_rate": 0.5555,
+    "n": 5,
+    "category": "math"
+  },
+  "math_41": {
+    "pass_rate": 0.5605,
+    "n": 8,
+    "category": "math"
+  },
+  "math_42": {
+    "pass_rate": 0.6343,
+    "n": 4,
+    "category": "math"
+  },
+  "math_43": {
+    "pass_rate": 0.5721,
+    "n": 8,
+    "category": "math"
+  },
+  "math_44": {
+    "pass_rate": 0.5853,
+    "n": 3,
+    "category": "math"
+  },
+  "math_45": {
+    "pass_rate": 0.6385,
+    "n": 6,
+    "category": "math"
+  },
+  "math_46": {
+    "pass_rate": 0.6411,
+    "n": 3,
+    "category": "math"
+  },
+  "math_47": {
+    "pass_rate": 0.6256,
+    "n": 5,
+    "category": "math"
+  },
+  "math_48": {
+    "pass_rate": 0.5566,
+    "n": 7,
+    "category": "math"
+  },
+  "math_49": {
+    "pass_rate": 0.5515,
+    "n": 7,
+    "category": "math"
+  },
+  "simpleqa_0": {
+    "pass_rate": 0.53,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_1": {
+    "pass_rate": 0.5355,
+    "n": 6,
+    "category": "simpleqa"
+  },
+  "simpleqa_2": {
+    "pass_rate": 0.5639,
+    "n": 4,
+    "category": "simpleqa"
+  },
+  "simpleqa_3": {
+    "pass_rate": 0.6161,
+    "n": 4,
+    "category": "simpleqa"
+  },
+  "simpleqa_4": {
+    "pass_rate": 0.6177,
+    "n": 5,
+    "category": "simpleqa"
+  },
+  "simpleqa_5": {
+    "pass_rate": 0.5587,
+    "n": 6,
+    "category": "simpleqa"
+  },
+  "simpleqa_6": {
+    "pass_rate": 0.5072,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_7": {
+    "pass_rate": 0.5112,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_8": {
+    "pass_rate": 0.6072,
+    "n": 5,
+    "category": "simpleqa"
+  },
+  "simpleqa_9": {
+    "pass_rate": 0.5051,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_10": {
+    "pass_rate": 0.5042,
+    "n": 8,
+    "category": "simpleqa"
+  },
+  "simpleqa_11": {
+    "pass_rate": 0.5977,
+    "n": 4,
+    "category": "simpleqa"
+  },
+  "simpleqa_12": {
+    "pass_rate": 0.5635,
+    "n": 3,
+    "category": "simpleqa"
+  },
+  "simpleqa_13": {
+    "pass_rate": 0.5523,
+    "n": 8,
+    "category": "simpleqa"
+  },
+  "simpleqa_14": {
+    "pass_rate": 0.506,
+    "n": 6,
+    "category": "simpleqa"
+  },
+  "simpleqa_15": {
+    "pass_rate": 0.6126,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_16": {
+    "pass_rate": 0.6047,
+    "n": 3,
+    "category": "simpleqa"
+  },
+  "simpleqa_17": {
+    "pass_rate": 0.5794,
+    "n": 4,
+    "category": "simpleqa"
+  },
+  "simpleqa_18": {
+    "pass_rate": 0.5324,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_19": {
+    "pass_rate": 0.6024,
+    "n": 3,
+    "category": "simpleqa"
+  },
+  "simpleqa_20": {
+    "pass_rate": 0.5716,
+    "n": 4,
+    "category": "simpleqa"
+  },
+  "simpleqa_21": {
+    "pass_rate": 0.6127,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_22": {
+    "pass_rate": 0.5548,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_23": {
+    "pass_rate": 0.6064,
+    "n": 3,
+    "category": "simpleqa"
+  },
+  "simpleqa_24": {
+    "pass_rate": 0.5492,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_25": {
+    "pass_rate": 0.5438,
+    "n": 5,
+    "category": "simpleqa"
+  },
+  "simpleqa_26": {
+    "pass_rate": 0.5219,
+    "n": 5,
+    "category": "simpleqa"
+  },
+  "simpleqa_27": {
+    "pass_rate": 0.5206,
+    "n": 8,
+    "category": "simpleqa"
+  },
+  "simpleqa_28": {
+    "pass_rate": 0.5736,
+    "n": 4,
+    "category": "simpleqa"
+  },
+  "simpleqa_29": {
+    "pass_rate": 0.5172,
+    "n": 3,
+    "category": "simpleqa"
+  },
+  "simpleqa_30": {
+    "pass_rate": 0.56,
+    "n": 4,
+    "category": "simpleqa"
+  },
+  "simpleqa_31": {
+    "pass_rate": 0.6084,
+    "n": 8,
+    "category": "simpleqa"
+  },
+  "simpleqa_32": {
+    "pass_rate": 0.5329,
+    "n": 6,
+    "category": "simpleqa"
+  },
+  "simpleqa_33": {
+    "pass_rate": 0.536,
+    "n": 8,
+    "category": "simpleqa"
+  },
+  "simpleqa_34": {
+    "pass_rate": 0.5827,
+    "n": 6,
+    "category": "simpleqa"
+  },
+  "simpleqa_35": {
+    "pass_rate": 0.518,
+    "n": 6,
+    "category": "simpleqa"
+  },
+  "simpleqa_36": {
+    "pass_rate": 0.5612,
+    "n": 4,
+    "category": "simpleqa"
+  },
+  "simpleqa_37": {
+    "pass_rate": 0.6128,
+    "n": 4,
+    "category": "simpleqa"
+  },
+  "simpleqa_38": {
+    "pass_rate": 0.5826,
+    "n": 6,
+    "category": "simpleqa"
+  },
+  "simpleqa_39": {
+    "pass_rate": 0.5545,
+    "n": 4,
+    "category": "simpleqa"
+  },
+  "simpleqa_40": {
+    "pass_rate": 0.5354,
+    "n": 5,
+    "category": "simpleqa"
+  },
+  "simpleqa_41": {
+    "pass_rate": 0.5765,
+    "n": 3,
+    "category": "simpleqa"
+  },
+  "simpleqa_42": {
+    "pass_rate": 0.6074,
+    "n": 5,
+    "category": "simpleqa"
+  },
+  "simpleqa_43": {
+    "pass_rate": 0.5157,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_44": {
+    "pass_rate": 0.6136,
+    "n": 3,
+    "category": "simpleqa"
+  },
+  "simpleqa_45": {
+    "pass_rate": 0.528,
+    "n": 8,
+    "category": "simpleqa"
+  },
+  "simpleqa_46": {
+    "pass_rate": 0.6139,
+    "n": 7,
+    "category": "simpleqa"
+  },
+  "simpleqa_47": {
+    "pass_rate": 0.5745,
+    "n": 3,
+    "category": "simpleqa"
+  },
+  "simpleqa_48": {
+    "pass_rate": 0.5832,
+    "n": 8,
+    "category": "simpleqa"
+  },
+  "simpleqa_49": {
+    "pass_rate": 0.5385,
+    "n": 5,
+    "category": "simpleqa"
+  }
+}

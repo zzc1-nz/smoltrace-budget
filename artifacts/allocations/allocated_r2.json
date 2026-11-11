@@ -1,0 +1,1058 @@
+[
+  {
+    "task_id": "gaia_0",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_1",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_2",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_3",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_4",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_5",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_6",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_7",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_8",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_9",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_10",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_11",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_12",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_13",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_14",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_15",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_16",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_17",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_18",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_19",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_20",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_21",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_22",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_23",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_24",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_25",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_26",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_27",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_28",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_29",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_30",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "gaia_31",
+    "tier": "high",
+    "policy": "by_category",
+    "expected_tokens": 5290.0,
+    "historical_pass_rate": null,
+    "reason": "category 'gaia' maps to tier 'high' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_0",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_1",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_2",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_3",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_4",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_5",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_6",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_7",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_8",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_9",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_10",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_11",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_12",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_13",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_14",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_15",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_16",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_17",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_18",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_19",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_20",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_21",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_22",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_23",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_24",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_25",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_26",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_27",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_28",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_29",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_30",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_31",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_32",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_33",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_34",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_35",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_36",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_37",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_38",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_39",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_40",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_41",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_42",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_43",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_44",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_45",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_46",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_47",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_48",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "math_49",
+    "tier": "mid",
+    "policy": "by_category",
+    "expected_tokens": 2920.0,
+    "historical_pass_rate": null,
+    "reason": "category 'math' maps to tier 'mid' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_0",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_1",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_2",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_3",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_4",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_5",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_6",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_7",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_8",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_9",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_10",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_11",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_12",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_13",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_14",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_15",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_16",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_17",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_18",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_19",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_20",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_21",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_22",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_23",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_24",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_25",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_26",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_27",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_28",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_29",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_30",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_31",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_32",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_33",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_34",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_35",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_36",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_37",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_38",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_39",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_40",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_41",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_42",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_43",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_44",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_45",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_46",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_47",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_48",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  },
+  {
+    "task_id": "simpleqa_49",
+    "tier": "low",
+    "policy": "by_category",
+    "expected_tokens": 990.0,
+    "historical_pass_rate": null,
+    "reason": "category 'simpleqa' maps to tier 'low' under the static policy (gaia->high, math->mid, simpleqa->low)"
+  }
+]

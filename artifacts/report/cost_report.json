@@ -1,0 +1,1942 @@
+{
+  "arms": [
+    "all_high",
+    "all_low",
+    "allocated"
+  ],
+  "rounds": [
+    0,
+    1,
+    2
+  ],
+  "reference_arm": "all_high",
+  "cheap_arm": "all_low",
+  "allocated_arm": "allocated",
+  "partial": false,
+  "missing_arms": [],
+  "n_records_total": 5940,
+  "n_records_by_arm": {
+    "all_high": 1980,
+    "all_low": 1980,
+    "allocated": 1980
+  },
+  "totals_by_arm": {
+    "all_high": {
+      "total_tokens": 11375912,
+      "total_cost_usd": 20.349672,
+      "n_records": 1980,
+      "n_tasks": 132,
+      "n_models": 5
+    },
+    "all_low": {
+      "total_tokens": 8169544,
+      "total_cost_usd": 0.69746,
+      "n_records": 1980,
+      "n_tasks": 132,
+      "n_models": 5
+    },
+    "allocated": {
+      "total_tokens": 11375786,
+      "total_cost_usd": 8.792515,
+      "n_records": 1980,
+      "n_tasks": 132,
+      "n_models": 5
+    }
+  },
+  "cost_by_category": {
+    "all_high": {
+      "gaia": {
+        "tokens": 4131392,
+        "cost": 7.376028,
+        "n_records": 480,
+        "share_of_tokens": 36.317,
+        "share_of_cost": 36.2464,
+        "total_tokens": 4131392,
+        "total_cost_usd": 7.376028
+      },
+      "math": {
+        "tokens": 4216704,
+        "cost": 7.575012,
+        "n_records": 750,
+        "share_of_tokens": 37.067,
+        "share_of_cost": 37.2242,
+        "total_tokens": 4216704,
+        "total_cost_usd": 7.575012
+      },
+      "simpleqa": {
+        "tokens": 3027816,
+        "cost": 5.398632,
+        "n_records": 750,
+        "share_of_tokens": 26.616,
+        "share_of_cost": 26.5293,
+        "total_tokens": 3027816,
+        "total_cost_usd": 5.398632
+      }
+    },
+    "all_low": {
+      "gaia": {
+        "tokens": 2049186,
+        "cost": 0.174239,
+        "n_records": 480,
+        "share_of_tokens": 25.0832,
+        "share_of_cost": 24.9819,
+        "total_tokens": 2049186,
+        "total_cost_usd": 0.174239
+      },
+      "math": {
+        "tokens": 3092524,
+        "cost": 0.263996,
+        "n_records": 750,
+        "share_of_tokens": 37.8543,
+        "share_of_cost": 37.851,
+        "total_tokens": 3092524,
+        "total_cost_usd": 0.263996
+      },
+      "simpleqa": {
+        "tokens": 3027834,
+        "cost": 0.259226,
+        "n_records": 750,
+        "share_of_tokens": 37.0625,
+        "share_of_cost": 37.1671,
+        "total_tokens": 3027834,
+        "total_cost_usd": 0.259226
+      }
+    },
+    "allocated": {
+      "gaia": {
+        "tokens": 4131250,
+        "cost": 7.374963,
+        "n_records": 480,
+        "share_of_tokens": 36.3162,
+        "share_of_cost": 83.8777,
+        "total_tokens": 4131250,
+        "total_cost_usd": 7.374963
+      },
+      "math": {
+        "tokens": 4216678,
+        "cost": 1.158319,
+        "n_records": 750,
+        "share_of_tokens": 37.0671,
+        "share_of_cost": 13.1739,
+        "total_tokens": 4216678,
+        "total_cost_usd": 1.158319
+      },
+      "simpleqa": {
+        "tokens": 3027858,
+        "cost": 0.259233,
+        "n_records": 750,
+        "share_of_tokens": 26.6167,
+        "share_of_cost": 2.9483,
+        "total_tokens": 3027858,
+        "total_cost_usd": 0.259233
+      }
+    }
+  },
+  "leaderboards": {
+    "all_high": {
+      "0": [
+        {
+          "arm": "all_high",
+          "round_index": 0,
+          "model": "thorough-32b",
+          "passed": 96,
+          "evaluated": 132,
+          "pass_rate": 72.7273,
+          "total_tokens": 1760406,
+          "total_cost_usd": 3.291561,
+          "avg_latency_ms": 160.78,
+          "rank": 1
+        },
+        {
+          "arm": "all_high",
+          "round_index": 0,
+          "model": "balanced-13b",
+          "passed": 83,
+          "evaluated": 132,
+          "pass_rate": 62.8788,
+          "total_tokens": 647890,
+          "total_cost_usd": 1.129707,
+          "avg_latency_ms": 100.411,
+          "rank": 2
+        },
+        {
+          "arm": "all_high",
+          "round_index": 0,
+          "model": "mathwhiz-9b",
+          "passed": 76,
+          "evaluated": 132,
+          "pass_rate": 57.5758,
+          "total_tokens": 730738,
+          "total_cost_usd": 1.312035,
+          "avg_latency_ms": 100.903,
+          "rank": 3
+        },
+        {
+          "arm": "all_high",
+          "round_index": 0,
+          "model": "quickthink-7b",
+          "passed": 74,
+          "evaluated": 132,
+          "pass_rate": 56.0606,
+          "total_tokens": 359678,
+          "total_cost_usd": 0.581577,
+          "avg_latency_ms": 90.282,
+          "rank": 4
+        },
+        {
+          "arm": "all_high",
+          "round_index": 0,
+          "model": "tinyfast-3b",
+          "passed": 38,
+          "evaluated": 132,
+          "pass_rate": 28.7879,
+          "total_tokens": 293282,
+          "total_cost_usd": 0.468519,
+          "avg_latency_ms": 90.742,
+          "rank": 5
+        }
+      ],
+      "1": [
+        {
+          "arm": "all_high",
+          "round_index": 1,
+          "model": "thorough-32b",
+          "passed": 94,
+          "evaluated": 132,
+          "pass_rate": 71.2121,
+          "total_tokens": 1760438,
+          "total_cost_usd": 3.291801,
+          "avg_latency_ms": 156.999,
+          "rank": 1
+        },
+        {
+          "arm": "all_high",
+          "round_index": 1,
+          "model": "balanced-13b",
+          "passed": 82,
+          "evaluated": 132,
+          "pass_rate": 62.1212,
+          "total_tokens": 647880,
+          "total_cost_usd": 1.129632,
+          "avg_latency_ms": 100.666,
+          "rank": 2
+        },
+        {
+          "arm": "all_high",
+          "round_index": 1,
+          "model": "quickthink-7b",
+          "passed": 78,
+          "evaluated": 132,
+          "pass_rate": 59.0909,
+          "total_tokens": 359684,
+          "total_cost_usd": 0.581622,
+          "avg_latency_ms": 95.041,
+          "rank": 3
+        },
+        {
+          "arm": "all_high",
+          "round_index": 1,
+          "model": "mathwhiz-9b",
+          "passed": 72,
+          "evaluated": 132,
+          "pass_rate": 54.5455,
+          "total_tokens": 730744,
+          "total_cost_usd": 1.31208,
+          "avg_latency_ms": 97.909,
+          "rank": 4
+        },
+        {
+          "arm": "all_high",
+          "round_index": 1,
+          "model": "tinyfast-3b",
+          "passed": 47,
+          "evaluated": 132,
+          "pass_rate": 35.6061,
+          "total_tokens": 293270,
+          "total_cost_usd": 0.468429,
+          "avg_latency_ms": 90.334,
+          "rank": 5
+        }
+      ],
+      "2": [
+        {
+          "arm": "all_high",
+          "round_index": 2,
+          "model": "thorough-32b",
+          "passed": 95,
+          "evaluated": 132,
+          "pass_rate": 71.9697,
+          "total_tokens": 1760310,
+          "total_cost_usd": 3.290841,
+          "avg_latency_ms": 190.063,
+          "rank": 1
+        },
+        {
+          "arm": "all_high",
+          "round_index": 2,
+          "model": "balanced-13b",
+          "passed": 83,
+          "evaluated": 132,
+          "pass_rate": 62.8788,
+          "total_tokens": 647850,
+          "total_cost_usd": 1.129407,
+          "avg_latency_ms": 121.572,
+          "rank": 2
+        },
+        {
+          "arm": "all_high",
+          "round_index": 2,
+          "model": "quickthink-7b",
+          "passed": 78,
+          "evaluated": 132,
+          "pass_rate": 59.0909,
+          "total_tokens": 359668,
+          "total_cost_usd": 0.581502,
+          "avg_latency_ms": 110.652,
+          "rank": 3
+        },
+        {
+          "arm": "all_high",
+          "round_index": 2,
+          "model": "mathwhiz-9b",
+          "passed": 76,
+          "evaluated": 132,
+          "pass_rate": 57.5758,
+          "total_tokens": 730786,
+          "total_cost_usd": 1.312395,
+          "avg_latency_ms": 120.264,
+          "rank": 4
+        },
+        {
+          "arm": "all_high",
+          "round_index": 2,
+          "model": "tinyfast-3b",
+          "passed": 46,
+          "evaluated": 132,
+          "pass_rate": 34.8485,
+          "total_tokens": 293288,
+          "total_cost_usd": 0.468564,
+          "avg_latency_ms": 105.427,
+          "rank": 5
+        }
+      ],
+      "mean": [
+        {
+          "arm": "all_high",
+          "round_index": -1,
+          "model": "thorough-32b",
+          "passed": 285,
+          "evaluated": 396,
+          "pass_rate": 71.9697,
+          "total_tokens": 5281154,
+          "total_cost_usd": 9.874203,
+          "avg_latency_ms": 169.281,
+          "rank": 1
+        },
+        {
+          "arm": "all_high",
+          "round_index": -1,
+          "model": "balanced-13b",
+          "passed": 248,
+          "evaluated": 396,
+          "pass_rate": 62.6263,
+          "total_tokens": 1943620,
+          "total_cost_usd": 3.388746,
+          "avg_latency_ms": 107.55,
+          "rank": 2
+        },
+        {
+          "arm": "all_high",
+          "round_index": -1,
+          "model": "quickthink-7b",
+          "passed": 230,
+          "evaluated": 396,
+          "pass_rate": 58.0808,
+          "total_tokens": 1079030,
+          "total_cost_usd": 1.744701,
+          "avg_latency_ms": 98.658,
+          "rank": 3
+        },
+        {
+          "arm": "all_high",
+          "round_index": -1,
+          "model": "mathwhiz-9b",
+          "passed": 224,
+          "evaluated": 396,
+          "pass_rate": 56.5657,
+          "total_tokens": 2192268,
+          "total_cost_usd": 3.93651,
+          "avg_latency_ms": 106.359,
+          "rank": 4
+        },
+        {
+          "arm": "all_high",
+          "round_index": -1,
+          "model": "tinyfast-3b",
+          "passed": 131,
+          "evaluated": 396,
+          "pass_rate": 33.0808,
+          "total_tokens": 879840,
+          "total_cost_usd": 1.405512,
+          "avg_latency_ms": 95.501,
+          "rank": 5
+        }
+      ]
+    },
+    "all_low": {
+      "0": [
+        {
+          "arm": "all_low",
+          "round_index": 0,
+          "model": "mathwhiz-9b",
+          "passed": 83,
+          "evaluated": 132,
+          "pass_rate": 62.8788,
+          "total_tokens": 641446,
+          "total_cost_usd": 0.055326,
+          "avg_latency_ms": 126.427,
+          "rank": 1
+        },
+        {
+          "arm": "all_low",
+          "round_index": 0,
+          "model": "balanced-13b",
+          "passed": 75,
+          "evaluated": 132,
+          "pass_rate": 56.8182,
+          "total_tokens": 568638,
+          "total_cost_usd": 0.047923,
+          "avg_latency_ms": 123.824,
+          "rank": 2
+        },
+        {
+          "arm": "all_low",
+          "round_index": 0,
+          "model": "quickthink-7b",
+          "passed": 68,
+          "evaluated": 132,
+          "pass_rate": 51.5152,
+          "total_tokens": 359634,
+          "total_cost_usd": 0.02854,
+          "avg_latency_ms": 123.533,
+          "rank": 3
+        },
+        {
+          "arm": "all_low",
+          "round_index": 0,
+          "model": "thorough-32b",
+          "passed": 65,
+          "evaluated": 132,
+          "pass_rate": 49.2424,
+          "total_tokens": 860192,
+          "total_cost_usd": 0.077633,
+          "avg_latency_ms": 134.908,
+          "rank": 4
+        },
+        {
+          "arm": "all_low",
+          "round_index": 0,
+          "model": "tinyfast-3b",
+          "passed": 54,
+          "evaluated": 132,
+          "pass_rate": 40.9091,
+          "total_tokens": 293292,
+          "total_cost_usd": 0.023071,
+          "avg_latency_ms": 128.92,
+          "rank": 5
+        }
+      ],
+      "1": [
+        {
+          "arm": "all_low",
+          "round_index": 1,
+          "model": "balanced-13b",
+          "passed": 82,
+          "evaluated": 132,
+          "pass_rate": 62.1212,
+          "total_tokens": 568616,
+          "total_cost_usd": 0.047916,
+          "avg_latency_ms": 117.625,
+          "rank": 1
+        },
+        {
+          "arm": "all_low",
+          "round_index": 1,
+          "model": "mathwhiz-9b",
+          "passed": 71,
+          "evaluated": 132,
+          "pass_rate": 53.7879,
+          "total_tokens": 641418,
+          "total_cost_usd": 0.055317,
+          "avg_latency_ms": 118.564,
+          "rank": 2
+        },
+        {
+          "arm": "all_low",
+          "round_index": 1,
+          "model": "quickthink-7b",
+          "passed": 68,
+          "evaluated": 132,
+          "pass_rate": 51.5152,
+          "total_tokens": 359682,
+          "total_cost_usd": 0.028554,
+          "avg_latency_ms": 116.447,
+          "rank": 3
+        },
+        {
+          "arm": "all_low",
+          "round_index": 1,
+          "model": "thorough-32b",
+          "passed": 61,
+          "evaluated": 132,
+          "pass_rate": 46.2121,
+          "total_tokens": 860192,
+          "total_cost_usd": 0.077633,
+          "avg_latency_ms": 116.119,
+          "rank": 4
+        },
+        {
+          "arm": "all_low",
+          "round_index": 1,
+          "model": "tinyfast-3b",
+          "passed": 51,
+          "evaluated": 132,
+          "pass_rate": 38.6364,
+          "total_tokens": 293296,
+          "total_cost_usd": 0.023073,
+          "avg_latency_ms": 117.437,
+          "rank": 5
+        }
+      ],
+      "2": [
+        {
+          "arm": "all_low",
+          "round_index": 2,
+          "model": "quickthink-7b",
+          "passed": 75,
+          "evaluated": 132,
+          "pass_rate": 56.8182,
+          "total_tokens": 359638,
+          "total_cost_usd": 0.028541,
+          "avg_latency_ms": 117.566,
+          "rank": 1
+        },
+        {
+          "arm": "all_low",
+          "round_index": 2,
+          "model": "balanced-13b",
+          "passed": 68,
+          "evaluated": 132,
+          "pass_rate": 51.5152,
+          "total_tokens": 568572,
+          "total_cost_usd": 0.047903,
+          "avg_latency_ms": 115.743,
+          "rank": 2
+        },
+        {
+          "arm": "all_low",
+          "round_index": 2,
+          "model": "mathwhiz-9b",
+          "passed": 68,
+          "evaluated": 132,
+          "pass_rate": 51.5152,
+          "total_tokens": 641462,
+          "total_cost_usd": 0.05533,
+          "avg_latency_ms": 116.068,
+          "rank": 3
+        },
+        {
+          "arm": "all_low",
+          "round_index": 2,
+          "model": "thorough-32b",
+          "passed": 61,
+          "evaluated": 132,
+          "pass_rate": 46.2121,
+          "total_tokens": 860180,
+          "total_cost_usd": 0.07763,
+          "avg_latency_ms": 118.204,
+          "rank": 4
+        },
+        {
+          "arm": "all_low",
+          "round_index": 2,
+          "model": "tinyfast-3b",
+          "passed": 39,
+          "evaluated": 132,
+          "pass_rate": 29.5455,
+          "total_tokens": 293286,
+          "total_cost_usd": 0.02307,
+          "avg_latency_ms": 115.683,
+          "rank": 5
+        }
+      ],
+      "mean": [
+        {
+          "arm": "all_low",
+          "round_index": -1,
+          "model": "balanced-13b",
+          "passed": 225,
+          "evaluated": 396,
+          "pass_rate": 56.8182,
+          "total_tokens": 1705826,
+          "total_cost_usd": 0.143742,
+          "avg_latency_ms": 119.064,
+          "rank": 1
+        },
+        {
+          "arm": "all_low",
+          "round_index": -1,
+          "model": "mathwhiz-9b",
+          "passed": 222,
+          "evaluated": 396,
+          "pass_rate": 56.0606,
+          "total_tokens": 1924326,
+          "total_cost_usd": 0.165973,
+          "avg_latency_ms": 120.353,
+          "rank": 2
+        },
+        {
+          "arm": "all_low",
+          "round_index": -1,
+          "model": "quickthink-7b",
+          "passed": 211,
+          "evaluated": 396,
+          "pass_rate": 53.2828,
+          "total_tokens": 1078954,
+          "total_cost_usd": 0.085635,
+          "avg_latency_ms": 119.182,
+          "rank": 3
+        },
+        {
+          "arm": "all_low",
+          "round_index": -1,
+          "model": "thorough-32b",
+          "passed": 187,
+          "evaluated": 396,
+          "pass_rate": 47.2222,
+          "total_tokens": 2580564,
+          "total_cost_usd": 0.232896,
+          "avg_latency_ms": 123.077,
+          "rank": 4
+        },
+        {
+          "arm": "all_low",
+          "round_index": -1,
+          "model": "tinyfast-3b",
+          "passed": 144,
+          "evaluated": 396,
+          "pass_rate": 36.3636,
+          "total_tokens": 879874,
+          "total_cost_usd": 0.069214,
+          "avg_latency_ms": 120.68,
+          "rank": 5
+        }
+      ]
+    },
+    "allocated": {
+      "0": [
+        {
+          "arm": "allocated",
+          "round_index": 0,
+          "model": "balanced-13b",
+          "passed": 88,
+          "evaluated": 132,
+          "pass_rate": 66.6667,
+          "total_tokens": 647842,
+          "total_cost_usd": 0.459944,
+          "avg_latency_ms": 124.546,
+          "rank": 1
+        },
+        {
+          "arm": "allocated",
+          "round_index": 0,
+          "model": "thorough-32b",
+          "passed": 86,
+          "evaluated": 132,
+          "pass_rate": 65.1515,
+          "total_tokens": 1760372,
+          "total_cost_usd": 1.591654,
+          "avg_latency_ms": 196.288,
+          "rank": 2
+        },
+        {
+          "arm": "allocated",
+          "round_index": 0,
+          "model": "quickthink-7b",
+          "passed": 79,
+          "evaluated": 132,
+          "pass_rate": 59.8485,
+          "total_tokens": 359702,
+          "total_cost_usd": 0.191825,
+          "avg_latency_ms": 111.895,
+          "rank": 3
+        },
+        {
+          "arm": "allocated",
+          "round_index": 0,
+          "model": "mathwhiz-9b",
+          "passed": 77,
+          "evaluated": 132,
+          "pass_rate": 58.3333,
+          "total_tokens": 730718,
+          "total_cost_usd": 0.532598,
+          "avg_latency_ms": 130.946,
+          "rank": 4
+        },
+        {
+          "arm": "allocated",
+          "round_index": 0,
+          "model": "tinyfast-3b",
+          "passed": 47,
+          "evaluated": 132,
+          "pass_rate": 35.6061,
+          "total_tokens": 293274,
+          "total_cost_usd": 0.154598,
+          "avg_latency_ms": 111.383,
+          "rank": 5
+        }
+      ],
+      "1": [
+        {
+          "arm": "allocated",
+          "round_index": 1,
+          "model": "mathwhiz-9b",
+          "passed": 94,
+          "evaluated": 132,
+          "pass_rate": 71.2121,
+          "total_tokens": 730778,
+          "total_cost_usd": 0.532949,
+          "avg_latency_ms": 114.785,
+          "rank": 1
+        },
+        {
+          "arm": "allocated",
+          "round_index": 1,
+          "model": "balanced-13b",
+          "passed": 88,
+          "evaluated": 132,
+          "pass_rate": 66.6667,
+          "total_tokens": 647902,
+          "total_cost_usd": 0.46045,
+          "avg_latency_ms": 115.063,
+          "rank": 2
+        },
+        {
+          "arm": "allocated",
+          "round_index": 1,
+          "model": "quickthink-7b",
+          "passed": 77,
+          "evaluated": 132,
+          "pass_rate": 58.3333,
+          "total_tokens": 359664,
+          "total_cost_usd": 0.191544,
+          "avg_latency_ms": 103.662,
+          "rank": 3
+        },
+        {
+          "arm": "allocated",
+          "round_index": 1,
+          "model": "thorough-32b",
+          "passed": 77,
+          "evaluated": 132,
+          "pass_rate": 58.3333,
+          "total_tokens": 1760318,
+          "total_cost_usd": 1.591407,
+          "avg_latency_ms": 181.311,
+          "rank": 4
+        },
+        {
+          "arm": "allocated",
+          "round_index": 1,
+          "model": "tinyfast-3b",
+          "passed": 50,
+          "evaluated": 132,
+          "pass_rate": 37.8788,
+          "total_tokens": 293288,
+          "total_cost_usd": 0.154704,
+          "avg_latency_ms": 104.541,
+          "rank": 5
+        }
+      ],
+      "2": [
+        {
+          "arm": "allocated",
+          "round_index": 2,
+          "model": "quickthink-7b",
+          "passed": 85,
+          "evaluated": 132,
+          "pass_rate": 64.3939,
+          "total_tokens": 359678,
+          "total_cost_usd": 0.191619,
+          "avg_latency_ms": 105.999,
+          "rank": 1
+        },
+        {
+          "arm": "allocated",
+          "round_index": 2,
+          "model": "thorough-32b",
+          "passed": 82,
+          "evaluated": 132,
+          "pass_rate": 62.1212,
+          "total_tokens": 1760328,
+          "total_cost_usd": 1.591298,
+          "avg_latency_ms": 187.442,
+          "rank": 2
+        },
+        {
+          "arm": "allocated",
+          "round_index": 2,
+          "model": "mathwhiz-9b",
+          "passed": 80,
+          "evaluated": 132,
+          "pass_rate": 60.6061,
+          "total_tokens": 730776,
+          "total_cost_usd": 0.533033,
+          "avg_latency_ms": 131.259,
+          "rank": 3
+        },
+        {
+          "arm": "allocated",
+          "round_index": 2,
+          "model": "balanced-13b",
+          "passed": 77,
+          "evaluated": 132,
+          "pass_rate": 58.3333,
+          "total_tokens": 647854,
+          "total_cost_usd": 0.460159,
+          "avg_latency_ms": 118.668,
+          "rank": 4
+        },
+        {
+          "arm": "allocated",
+          "round_index": 2,
+          "model": "tinyfast-3b",
+          "passed": 45,
+          "evaluated": 132,
+          "pass_rate": 34.0909,
+          "total_tokens": 293292,
+          "total_cost_usd": 0.154733,
+          "avg_latency_ms": 107.093,
+          "rank": 5
+        }
+      ],
+      "mean": [
+        {
+          "arm": "allocated",
+          "round_index": -1,
+          "model": "balanced-13b",
+          "passed": 253,
+          "evaluated": 396,
+          "pass_rate": 63.8889,
+          "total_tokens": 1943598,
+          "total_cost_usd": 1.380553,
+          "avg_latency_ms": 119.426,
+          "rank": 1
+        },
+        {
+          "arm": "allocated",
+          "round_index": -1,
+          "model": "mathwhiz-9b",
+          "passed": 251,
+          "evaluated": 396,
+          "pass_rate": 63.3838,
+          "total_tokens": 2192272,
+          "total_cost_usd": 1.598581,
+          "avg_latency_ms": 125.663,
+          "rank": 2
+        },
+        {
+          "arm": "allocated",
+          "round_index": -1,
+          "model": "thorough-32b",
+          "passed": 245,
+          "evaluated": 396,
+          "pass_rate": 61.8687,
+          "total_tokens": 5281018,
+          "total_cost_usd": 4.774359,
+          "avg_latency_ms": 188.347,
+          "rank": 3
+        },
+        {
+          "arm": "allocated",
+          "round_index": -1,
+          "model": "quickthink-7b",
+          "passed": 241,
+          "evaluated": 396,
+          "pass_rate": 60.8586,
+          "total_tokens": 1079044,
+          "total_cost_usd": 0.574988,
+          "avg_latency_ms": 107.186,
+          "rank": 4
+        },
+        {
+          "arm": "allocated",
+          "round_index": -1,
+          "model": "tinyfast-3b",
+          "passed": 142,
+          "evaluated": 396,
+          "pass_rate": 35.8586,
+          "total_tokens": 879854,
+          "total_cost_usd": 0.464034,
+          "avg_latency_ms": 107.672,
+          "rank": 5
+        }
+      ]
+    }
+  },
+  "pooled_leaderboards": {
+    "all_high": [
+      {
+        "arm": "all_high",
+        "round_index": -1,
+        "model": "thorough-32b",
+        "passed": 285,
+        "evaluated": 396,
+        "pass_rate": 71.9697,
+        "total_tokens": 5281154,
+        "total_cost_usd": 9.874203,
+        "avg_latency_ms": 169.281,
+        "rank": 1
+      },
+      {
+        "arm": "all_high",
+        "round_index": -1,
+        "model": "balanced-13b",
+        "passed": 248,
+        "evaluated": 396,
+        "pass_rate": 62.6263,
+        "total_tokens": 1943620,
+        "total_cost_usd": 3.388746,
+        "avg_latency_ms": 107.55,
+        "rank": 2
+      },
+      {
+        "arm": "all_high",
+        "round_index": -1,
+        "model": "quickthink-7b",
+        "passed": 230,
+        "evaluated": 396,
+        "pass_rate": 58.0808,
+        "total_tokens": 1079030,
+        "total_cost_usd": 1.744701,
+        "avg_latency_ms": 98.658,
+        "rank": 3
+      },
+      {
+        "arm": "all_high",
+        "round_index": -1,
+        "model": "mathwhiz-9b",
+        "passed": 224,
+        "evaluated": 396,
+        "pass_rate": 56.5657,
+        "total_tokens": 2192268,
+        "total_cost_usd": 3.93651,
+        "avg_latency_ms": 106.359,
+        "rank": 4
+      },
+      {
+        "arm": "all_high",
+        "round_index": -1,
+        "model": "tinyfast-3b",
+        "passed": 131,
+        "evaluated": 396,
+        "pass_rate": 33.0808,
+        "total_tokens": 879840,
+        "total_cost_usd": 1.405512,
+        "avg_latency_ms": 95.501,
+        "rank": 5
+      }
+    ],
+    "all_low": [
+      {
+        "arm": "all_low",
+        "round_index": -1,
+        "model": "balanced-13b",
+        "passed": 225,
+        "evaluated": 396,
+        "pass_rate": 56.8182,
+        "total_tokens": 1705826,
+        "total_cost_usd": 0.143742,
+        "avg_latency_ms": 119.064,
+        "rank": 1
+      },
+      {
+        "arm": "all_low",
+        "round_index": -1,
+        "model": "mathwhiz-9b",
+        "passed": 222,
+        "evaluated": 396,
+        "pass_rate": 56.0606,
+        "total_tokens": 1924326,
+        "total_cost_usd": 0.165973,
+        "avg_latency_ms": 120.353,
+        "rank": 2
+      },
+      {
+        "arm": "all_low",
+        "round_index": -1,
+        "model": "quickthink-7b",
+        "passed": 211,
+        "evaluated": 396,
+        "pass_rate": 53.2828,
+        "total_tokens": 1078954,
+        "total_cost_usd": 0.085635,
+        "avg_latency_ms": 119.182,
+        "rank": 3
+      },
+      {
+        "arm": "all_low",
+        "round_index": -1,
+        "model": "thorough-32b",
+        "passed": 187,
+        "evaluated": 396,
+        "pass_rate": 47.2222,
+        "total_tokens": 2580564,
+        "total_cost_usd": 0.232896,
+        "avg_latency_ms": 123.077,
+        "rank": 4
+      },
+      {
+        "arm": "all_low",
+        "round_index": -1,
+        "model": "tinyfast-3b",
+        "passed": 144,
+        "evaluated": 396,
+        "pass_rate": 36.3636,
+        "total_tokens": 879874,
+        "total_cost_usd": 0.069214,
+        "avg_latency_ms": 120.68,
+        "rank": 5
+      }
+    ],
+    "allocated": [
+      {
+        "arm": "allocated",
+        "round_index": -1,
+        "model": "balanced-13b",
+        "passed": 253,
+        "evaluated": 396,
+        "pass_rate": 63.8889,
+        "total_tokens": 1943598,
+        "total_cost_usd": 1.380553,
+        "avg_latency_ms": 119.426,
+        "rank": 1
+      },
+      {
+        "arm": "allocated",
+        "round_index": -1,
+        "model": "mathwhiz-9b",
+        "passed": 251,
+        "evaluated": 396,
+        "pass_rate": 63.3838,
+        "total_tokens": 2192272,
+        "total_cost_usd": 1.598581,
+        "avg_latency_ms": 125.663,
+        "rank": 2
+      },
+      {
+        "arm": "allocated",
+        "round_index": -1,
+        "model": "thorough-32b",
+        "passed": 245,
+        "evaluated": 396,
+        "pass_rate": 61.8687,
+        "total_tokens": 5281018,
+        "total_cost_usd": 4.774359,
+        "avg_latency_ms": 188.347,
+        "rank": 3
+      },
+      {
+        "arm": "allocated",
+        "round_index": -1,
+        "model": "quickthink-7b",
+        "passed": 241,
+        "evaluated": 396,
+        "pass_rate": 60.8586,
+        "total_tokens": 1079044,
+        "total_cost_usd": 0.574988,
+        "avg_latency_ms": 107.186,
+        "rank": 4
+      },
+      {
+        "arm": "allocated",
+        "round_index": -1,
+        "model": "tinyfast-3b",
+        "passed": 142,
+        "evaluated": 396,
+        "pass_rate": 35.8586,
+        "total_tokens": 879854,
+        "total_cost_usd": 0.464034,
+        "avg_latency_ms": 107.672,
+        "rank": 5
+      }
+    ]
+  },
+  "rank_stability": {
+    "reference_arm": "all_high",
+    "reference_top3": [
+      "thorough-32b",
+      "balanced-13b",
+      "quickthink-7b"
+    ],
+    "arms": {
+      "all_high": {
+        "arm": "all_high",
+        "reference_arm": "all_high",
+        "stability_pct": 100.0,
+        "stability_delta_pct": 0.0,
+        "top3_membership_overlap": 3,
+        "top3_membership_overlap_denominator": 3,
+        "top3_membership_overlap_ratio": 1.0,
+        "top3_ordering_identical": true,
+        "top1_matches": true,
+        "kendall_tau": 1.0,
+        "kendall_tau_normalised": 1.0,
+        "n_common_models": 5,
+        "rank_changes": {
+          "thorough-32b": {
+            "reference_rank": 1,
+            "arm_rank": 1,
+            "delta": 0
+          },
+          "balanced-13b": {
+            "reference_rank": 2,
+            "arm_rank": 2,
+            "delta": 0
+          },
+          "quickthink-7b": {
+            "reference_rank": 3,
+            "arm_rank": 3,
+            "delta": 0
+          },
+          "mathwhiz-9b": {
+            "reference_rank": 4,
+            "arm_rank": 4,
+            "delta": 0
+          },
+          "tinyfast-3b": {
+            "reference_rank": 5,
+            "arm_rank": 5,
+            "delta": 0
+          }
+        },
+        "reference_top3": [
+          "thorough-32b",
+          "balanced-13b",
+          "quickthink-7b"
+        ],
+        "arm_top3": [
+          "thorough-32b",
+          "balanced-13b",
+          "quickthink-7b"
+        ]
+      },
+      "all_low": {
+        "arm": "all_low",
+        "reference_arm": "all_high",
+        "stability_pct": 63.335,
+        "stability_delta_pct": -36.665,
+        "top3_membership_overlap": 2,
+        "top3_membership_overlap_denominator": 3,
+        "top3_membership_overlap_ratio": 0.6667,
+        "top3_ordering_identical": false,
+        "top1_matches": false,
+        "kendall_tau": 0.2,
+        "kendall_tau_normalised": 0.6,
+        "n_common_models": 5,
+        "rank_changes": {
+          "thorough-32b": {
+            "reference_rank": 1,
+            "arm_rank": 4,
+            "delta": -3
+          },
+          "balanced-13b": {
+            "reference_rank": 2,
+            "arm_rank": 1,
+            "delta": 1
+          },
+          "quickthink-7b": {
+            "reference_rank": 3,
+            "arm_rank": 3,
+            "delta": 0
+          },
+          "mathwhiz-9b": {
+            "reference_rank": 4,
+            "arm_rank": 2,
+            "delta": 2
+          },
+          "tinyfast-3b": {
+            "reference_rank": 5,
+            "arm_rank": 5,
+            "delta": 0
+          }
+        },
+        "reference_top3": [
+          "thorough-32b",
+          "balanced-13b",
+          "quickthink-7b"
+        ],
+        "arm_top3": [
+          "balanced-13b",
+          "mathwhiz-9b",
+          "quickthink-7b"
+        ]
+      },
+      "allocated": {
+        "arm": "allocated",
+        "reference_arm": "all_high",
+        "stability_pct": 68.335,
+        "stability_delta_pct": -31.665,
+        "top3_membership_overlap": 2,
+        "top3_membership_overlap_denominator": 3,
+        "top3_membership_overlap_ratio": 0.6667,
+        "top3_ordering_identical": false,
+        "top1_matches": false,
+        "kendall_tau": 0.4,
+        "kendall_tau_normalised": 0.7,
+        "n_common_models": 5,
+        "rank_changes": {
+          "thorough-32b": {
+            "reference_rank": 1,
+            "arm_rank": 3,
+            "delta": -2
+          },
+          "balanced-13b": {
+            "reference_rank": 2,
+            "arm_rank": 1,
+            "delta": 1
+          },
+          "quickthink-7b": {
+            "reference_rank": 3,
+            "arm_rank": 4,
+            "delta": -1
+          },
+          "mathwhiz-9b": {
+            "reference_rank": 4,
+            "arm_rank": 2,
+            "delta": 2
+          },
+          "tinyfast-3b": {
+            "reference_rank": 5,
+            "arm_rank": 5,
+            "delta": 0
+          }
+        },
+        "reference_top3": [
+          "thorough-32b",
+          "balanced-13b",
+          "quickthink-7b"
+        ],
+        "arm_top3": [
+          "balanced-13b",
+          "mathwhiz-9b",
+          "thorough-32b"
+        ]
+      }
+    },
+    "mean_stability_pct": 77.2233
+  },
+  "rank_stability_by_round": {
+    "0": {
+      "reference_arm": "all_high",
+      "reference_top3": [
+        "thorough-32b",
+        "balanced-13b",
+        "mathwhiz-9b"
+      ],
+      "arms": {
+        "all_high": {
+          "arm": "all_high",
+          "reference_arm": "all_high",
+          "stability_pct": 100.0,
+          "stability_delta_pct": 0.0,
+          "top3_membership_overlap": 3,
+          "top3_membership_overlap_denominator": 3,
+          "top3_membership_overlap_ratio": 1.0,
+          "top3_ordering_identical": true,
+          "top1_matches": true,
+          "kendall_tau": 1.0,
+          "kendall_tau_normalised": 1.0,
+          "n_common_models": 5,
+          "rank_changes": {
+            "thorough-32b": {
+              "reference_rank": 1,
+              "arm_rank": 1,
+              "delta": 0
+            },
+            "balanced-13b": {
+              "reference_rank": 2,
+              "arm_rank": 2,
+              "delta": 0
+            },
+            "mathwhiz-9b": {
+              "reference_rank": 3,
+              "arm_rank": 3,
+              "delta": 0
+            },
+            "quickthink-7b": {
+              "reference_rank": 4,
+              "arm_rank": 4,
+              "delta": 0
+            },
+            "tinyfast-3b": {
+              "reference_rank": 5,
+              "arm_rank": 5,
+              "delta": 0
+            }
+          },
+          "reference_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "mathwhiz-9b"
+          ],
+          "arm_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "mathwhiz-9b"
+          ]
+        },
+        "all_low": {
+          "arm": "all_low",
+          "reference_arm": "all_high",
+          "stability_pct": 63.335,
+          "stability_delta_pct": -36.665,
+          "top3_membership_overlap": 2,
+          "top3_membership_overlap_denominator": 3,
+          "top3_membership_overlap_ratio": 0.6667,
+          "top3_ordering_identical": false,
+          "top1_matches": false,
+          "kendall_tau": 0.2,
+          "kendall_tau_normalised": 0.6,
+          "n_common_models": 5,
+          "rank_changes": {
+            "thorough-32b": {
+              "reference_rank": 1,
+              "arm_rank": 4,
+              "delta": -3
+            },
+            "balanced-13b": {
+              "reference_rank": 2,
+              "arm_rank": 2,
+              "delta": 0
+            },
+            "mathwhiz-9b": {
+              "reference_rank": 3,
+              "arm_rank": 1,
+              "delta": 2
+            },
+            "quickthink-7b": {
+              "reference_rank": 4,
+              "arm_rank": 3,
+              "delta": 1
+            },
+            "tinyfast-3b": {
+              "reference_rank": 5,
+              "arm_rank": 5,
+              "delta": 0
+            }
+          },
+          "reference_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "mathwhiz-9b"
+          ],
+          "arm_top3": [
+            "mathwhiz-9b",
+            "balanced-13b",
+            "quickthink-7b"
+          ]
+        },
+        "allocated": {
+          "arm": "allocated",
+          "reference_arm": "all_high",
+          "stability_pct": 73.335,
+          "stability_delta_pct": -26.665,
+          "top3_membership_overlap": 2,
+          "top3_membership_overlap_denominator": 3,
+          "top3_membership_overlap_ratio": 0.6667,
+          "top3_ordering_identical": false,
+          "top1_matches": false,
+          "kendall_tau": 0.6,
+          "kendall_tau_normalised": 0.8,
+          "n_common_models": 5,
+          "rank_changes": {
+            "thorough-32b": {
+              "reference_rank": 1,
+              "arm_rank": 2,
+              "delta": -1
+            },
+            "balanced-13b": {
+              "reference_rank": 2,
+              "arm_rank": 1,
+              "delta": 1
+            },
+            "mathwhiz-9b": {
+              "reference_rank": 3,
+              "arm_rank": 4,
+              "delta": -1
+            },
+            "quickthink-7b": {
+              "reference_rank": 4,
+              "arm_rank": 3,
+              "delta": 1
+            },
+            "tinyfast-3b": {
+              "reference_rank": 5,
+              "arm_rank": 5,
+              "delta": 0
+            }
+          },
+          "reference_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "mathwhiz-9b"
+          ],
+          "arm_top3": [
+            "balanced-13b",
+            "thorough-32b",
+            "quickthink-7b"
+          ]
+        }
+      },
+      "mean_stability_pct": 78.89
+    },
+    "1": {
+      "reference_arm": "all_high",
+      "reference_top3": [
+        "thorough-32b",
+        "balanced-13b",
+        "quickthink-7b"
+      ],
+      "arms": {
+        "all_high": {
+          "arm": "all_high",
+          "reference_arm": "all_high",
+          "stability_pct": 100.0,
+          "stability_delta_pct": 0.0,
+          "top3_membership_overlap": 3,
+          "top3_membership_overlap_denominator": 3,
+          "top3_membership_overlap_ratio": 1.0,
+          "top3_ordering_identical": true,
+          "top1_matches": true,
+          "kendall_tau": 1.0,
+          "kendall_tau_normalised": 1.0,
+          "n_common_models": 5,
+          "rank_changes": {
+            "thorough-32b": {
+              "reference_rank": 1,
+              "arm_rank": 1,
+              "delta": 0
+            },
+            "balanced-13b": {
+              "reference_rank": 2,
+              "arm_rank": 2,
+              "delta": 0
+            },
+            "quickthink-7b": {
+              "reference_rank": 3,
+              "arm_rank": 3,
+              "delta": 0
+            },
+            "mathwhiz-9b": {
+              "reference_rank": 4,
+              "arm_rank": 4,
+              "delta": 0
+            },
+            "tinyfast-3b": {
+              "reference_rank": 5,
+              "arm_rank": 5,
+              "delta": 0
+            }
+          },
+          "reference_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "quickthink-7b"
+          ],
+          "arm_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "quickthink-7b"
+          ]
+        },
+        "all_low": {
+          "arm": "all_low",
+          "reference_arm": "all_high",
+          "stability_pct": 63.335,
+          "stability_delta_pct": -36.665,
+          "top3_membership_overlap": 2,
+          "top3_membership_overlap_denominator": 3,
+          "top3_membership_overlap_ratio": 0.6667,
+          "top3_ordering_identical": false,
+          "top1_matches": false,
+          "kendall_tau": 0.2,
+          "kendall_tau_normalised": 0.6,
+          "n_common_models": 5,
+          "rank_changes": {
+            "thorough-32b": {
+              "reference_rank": 1,
+              "arm_rank": 4,
+              "delta": -3
+            },
+            "balanced-13b": {
+              "reference_rank": 2,
+              "arm_rank": 1,
+              "delta": 1
+            },
+            "quickthink-7b": {
+              "reference_rank": 3,
+              "arm_rank": 3,
+              "delta": 0
+            },
+            "mathwhiz-9b": {
+              "reference_rank": 4,
+              "arm_rank": 2,
+              "delta": 2
+            },
+            "tinyfast-3b": {
+              "reference_rank": 5,
+              "arm_rank": 5,
+              "delta": 0
+            }
+          },
+          "reference_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "quickthink-7b"
+          ],
+          "arm_top3": [
+            "balanced-13b",
+            "mathwhiz-9b",
+            "quickthink-7b"
+          ]
+        },
+        "allocated": {
+          "arm": "allocated",
+          "reference_arm": "all_high",
+          "stability_pct": 58.335,
+          "stability_delta_pct": -41.665,
+          "top3_membership_overlap": 2,
+          "top3_membership_overlap_denominator": 3,
+          "top3_membership_overlap_ratio": 0.6667,
+          "top3_ordering_identical": false,
+          "top1_matches": false,
+          "kendall_tau": 0.0,
+          "kendall_tau_normalised": 0.5,
+          "n_common_models": 5,
+          "rank_changes": {
+            "thorough-32b": {
+              "reference_rank": 1,
+              "arm_rank": 4,
+              "delta": -3
+            },
+            "balanced-13b": {
+              "reference_rank": 2,
+              "arm_rank": 2,
+              "delta": 0
+            },
+            "quickthink-7b": {
+              "reference_rank": 3,
+              "arm_rank": 3,
+              "delta": 0
+            },
+            "mathwhiz-9b": {
+              "reference_rank": 4,
+              "arm_rank": 1,
+              "delta": 3
+            },
+            "tinyfast-3b": {
+              "reference_rank": 5,
+              "arm_rank": 5,
+              "delta": 0
+            }
+          },
+          "reference_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "quickthink-7b"
+          ],
+          "arm_top3": [
+            "mathwhiz-9b",
+            "balanced-13b",
+            "quickthink-7b"
+          ]
+        }
+      },
+      "mean_stability_pct": 73.89
+    },
+    "2": {
+      "reference_arm": "all_high",
+      "reference_top3": [
+        "thorough-32b",
+        "balanced-13b",
+        "quickthink-7b"
+      ],
+      "arms": {
+        "all_high": {
+          "arm": "all_high",
+          "reference_arm": "all_high",
+          "stability_pct": 100.0,
+          "stability_delta_pct": 0.0,
+          "top3_membership_overlap": 3,
+          "top3_membership_overlap_denominator": 3,
+          "top3_membership_overlap_ratio": 1.0,
+          "top3_ordering_identical": true,
+          "top1_matches": true,
+          "kendall_tau": 1.0,
+          "kendall_tau_normalised": 1.0,
+          "n_common_models": 5,
+          "rank_changes": {
+            "thorough-32b": {
+              "reference_rank": 1,
+              "arm_rank": 1,
+              "delta": 0
+            },
+            "balanced-13b": {
+              "reference_rank": 2,
+              "arm_rank": 2,
+              "delta": 0
+            },
+            "quickthink-7b": {
+              "reference_rank": 3,
+              "arm_rank": 3,
+              "delta": 0
+            },
+            "mathwhiz-9b": {
+              "reference_rank": 4,
+              "arm_rank": 4,
+              "delta": 0
+            },
+            "tinyfast-3b": {
+              "reference_rank": 5,
+              "arm_rank": 5,
+              "delta": 0
+            }
+          },
+          "reference_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "quickthink-7b"
+          ],
+          "arm_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "quickthink-7b"
+          ]
+        },
+        "all_low": {
+          "arm": "all_low",
+          "reference_arm": "all_high",
+          "stability_pct": 63.335,
+          "stability_delta_pct": -36.665,
+          "top3_membership_overlap": 2,
+          "top3_membership_overlap_denominator": 3,
+          "top3_membership_overlap_ratio": 0.6667,
+          "top3_ordering_identical": false,
+          "top1_matches": false,
+          "kendall_tau": 0.2,
+          "kendall_tau_normalised": 0.6,
+          "n_common_models": 5,
+          "rank_changes": {
+            "thorough-32b": {
+              "reference_rank": 1,
+              "arm_rank": 4,
+              "delta": -3
+            },
+            "balanced-13b": {
+              "reference_rank": 2,
+              "arm_rank": 2,
+              "delta": 0
+            },
+            "quickthink-7b": {
+              "reference_rank": 3,
+              "arm_rank": 1,
+              "delta": 2
+            },
+            "mathwhiz-9b": {
+              "reference_rank": 4,
+              "arm_rank": 3,
+              "delta": 1
+            },
+            "tinyfast-3b": {
+              "reference_rank": 5,
+              "arm_rank": 5,
+              "delta": 0
+            }
+          },
+          "reference_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "quickthink-7b"
+          ],
+          "arm_top3": [
+            "quickthink-7b",
+            "balanced-13b",
+            "mathwhiz-9b"
+          ]
+        },
+        "allocated": {
+          "arm": "allocated",
+          "reference_arm": "all_high",
+          "stability_pct": 68.335,
+          "stability_delta_pct": -31.665,
+          "top3_membership_overlap": 2,
+          "top3_membership_overlap_denominator": 3,
+          "top3_membership_overlap_ratio": 0.6667,
+          "top3_ordering_identical": false,
+          "top1_matches": false,
+          "kendall_tau": 0.4,
+          "kendall_tau_normalised": 0.7,
+          "n_common_models": 5,
+          "rank_changes": {
+            "thorough-32b": {
+              "reference_rank": 1,
+              "arm_rank": 2,
+              "delta": -1
+            },
+            "balanced-13b": {
+              "reference_rank": 2,
+              "arm_rank": 4,
+              "delta": -2
+            },
+            "quickthink-7b": {
+              "reference_rank": 3,
+              "arm_rank": 1,
+              "delta": 2
+            },
+            "mathwhiz-9b": {
+              "reference_rank": 4,
+              "arm_rank": 3,
+              "delta": 1
+            },
+            "tinyfast-3b": {
+              "reference_rank": 5,
+              "arm_rank": 5,
+              "delta": 0
+            }
+          },
+          "reference_top3": [
+            "thorough-32b",
+            "balanced-13b",
+            "quickthink-7b"
+          ],
+          "arm_top3": [
+            "quickthink-7b",
+            "thorough-32b",
+            "mathwhiz-9b"
+          ]
+        }
+      },
+      "mean_stability_pct": 77.2233
+    }
+  },
+  "per_round": {
+    "rounds": [
+      0,
+      1,
+      2
+    ],
+    "by_round": {
+      "0": {
+        "all_high": {
+          "stability_pct": 100.0,
+          "kendall_tau": 1.0,
+          "top3_membership_overlap": 3,
+          "top3_ordering_identical": true
+        },
+        "all_low": {
+          "stability_pct": 63.335,
+          "kendall_tau": 0.2,
+          "top3_membership_overlap": 2,
+          "top3_ordering_identical": false
+        },
+        "allocated": {
+          "stability_pct": 73.335,
+          "kendall_tau": 0.6,
+          "top3_membership_overlap": 2,
+          "top3_ordering_identical": false
+        }
+      },
+      "1": {
+        "all_high": {
+          "stability_pct": 100.0,
+          "kendall_tau": 1.0,
+          "top3_membership_overlap": 3,
+          "top3_ordering_identical": true
+        },
+        "all_low": {
+          "stability_pct": 63.335,
+          "kendall_tau": 0.2,
+          "top3_membership_overlap": 2,
+          "top3_ordering_identical": false
+        },
+        "allocated": {
+          "stability_pct": 58.335,
+          "kendall_tau": 0.0,
+          "top3_membership_overlap": 2,
+          "top3_ordering_identical": false
+        }
+      },
+      "2": {
+        "all_high": {
+          "stability_pct": 100.0,
+          "kendall_tau": 1.0,
+          "top3_membership_overlap": 3,
+          "top3_ordering_identical": true
+        },
+        "all_low": {
+          "stability_pct": 63.335,
+          "kendall_tau": 0.2,
+          "top3_membership_overlap": 2,
+          "top3_ordering_identical": false
+        },
+        "allocated": {
+          "stability_pct": 68.335,
+          "kendall_tau": 0.4,
+          "top3_membership_overlap": 2,
+          "top3_ordering_identical": false
+        }
+      }
+    },
+    "by_arm": {
+      "all_high": {
+        "n_rounds": 3,
+        "stability_pct_per_round": [
+          100.0,
+          100.0,
+          100.0
+        ],
+        "min_stability_pct": 100.0,
+        "max_stability_pct": 100.0,
+        "spread_pct": 0.0,
+        "mean_stability_pct": 100.0,
+        "top3_membership_overlap_per_round": [
+          3,
+          3,
+          3
+        ],
+        "top3_ordering_identical_every_round": true,
+        "consistent_across_rounds": true
+      },
+      "all_low": {
+        "n_rounds": 3,
+        "stability_pct_per_round": [
+          63.335,
+          63.335,
+          63.335
+        ],
+        "min_stability_pct": 63.335,
+        "max_stability_pct": 63.335,
+        "spread_pct": 0.0,
+        "mean_stability_pct": 63.335,
+        "top3_membership_overlap_per_round": [
+          2,
+          2,
+          2
+        ],
+        "top3_ordering_identical_every_round": false,
+        "consistent_across_rounds": true
+      },
+      "allocated": {
+        "n_rounds": 3,
+        "stability_pct_per_round": [
+          73.335,
+          58.335,
+          68.335
+        ],
+        "min_stability_pct": 58.335,
+        "max_stability_pct": 73.335,
+        "spread_pct": 15.0,
+        "mean_stability_pct": 66.6683,
+        "top3_membership_overlap_per_round": [
+          2,
+          2,
+          2
+        ],
+        "top3_ordering_identical_every_round": false,
+        "consistent_across_rounds": false
+      }
+    }
+  },
+  "cheap_arm_hallucination": {
+    "cheap_arm": "all_low",
+    "reference_arm": "all_high",
+    "all_high_winner": "thorough-32b",
+    "all_low_winner": "balanced-13b",
+    "same": false,
+    "wrongly_crowned": "balanced-13b",
+    "true_winner_pass_rate_all_high": 71.9697,
+    "wrongly_crowned_pass_rate_all_high": 62.6263,
+    "wrongly_crowned_true_rank_all_high": 2,
+    "true_winner_rank_cheap": 4,
+    "true_winner_pass_rate_cheap": 47.2222,
+    "n_models_reference": 5,
+    "n_models_cheap": 5,
+    "explanation": "Cheap evaluation wrongly crowns balanced-13b first (56.8182% pass rate under all_low), but under the all_high gold standard balanced-13b is #2 of 5 at 62.6263%; the true winner is thorough-32b at 71.9697%. Measuring every task cheaply flips the top of the leaderboard."
+  },
+  "cost_rank_tradeoff": {
+    "baseline_arm": "all_high",
+    "allocated_arm": "allocated",
+    "baseline_available": true,
+    "allocated_available": true,
+    "cost_reduction_pct": 56.7928,
+    "token_reduction_pct": 0.0011,
+    "baseline_cost_usd": 20.349672,
+    "allocated_cost_usd": 8.792515,
+    "cost_saving_usd": 11.557157,
+    "baseline_tokens": 11375912,
+    "allocated_tokens": 11375786,
+    "rank_stability_change_pct": -31.665,
+    "allocated_stability_pct": 68.335,
+    "interpretation": "The allocated arm cuts evaluation cost by 56.79% versus the all_high gold standard (20.3497 USD / 11,375,912 tokens -> 8.7925 USD / 11,375,786 tokens) and moves top-3 rank stability by -31.66%."
+  },
+  "headline": "Cost down 56.79%, top-3 rank stability changes -31.66% versus the all_high gold standard. Measured cheaply, the leaderboard wrongly crowns balanced-13b first.",
+  "arm_totals": {
+    "all_high": {
+      "total_tokens": 11375912,
+      "total_cost_usd": 20.349672,
+      "n_records": 1980,
+      "n_tasks": 132,
+      "n_models": 5
+    },
+    "all_low": {
+      "total_tokens": 8169544,
+      "total_cost_usd": 0.69746,
+      "n_records": 1980,
+      "n_tasks": 132,
+      "n_models": 5
+    },
+    "allocated": {
+      "total_tokens": 11375786,
+      "total_cost_usd": 8.792515,
+      "n_records": 1980,
+      "n_tasks": 132,
+      "n_models": 5
+    }
+  },
+  "methodology": {
+    "pass_rate": "100 * passed / evaluated, rounded to 4 dp before ranking",
+    "leaderboard_order": "pass_rate descending, then total_cost_usd ascending, then model name ascending (deterministic, no exceptions)",
+    "arm_cost": "total_tokens and total_cost_usd are math.fsum over the arm's records, so they are independent of record order",
+    "kendall_tau": "Kendall tau-b = (C - D) / sqrt((n0 - n1) * (n0 - n2)), n0 = n(n-1)/2, n1/n2 = pairs tied on each side; None for <2 common models or a zero denominator",
+    "top3_membership_overlap_ratio": "|top3(arm) ∩ top3(reference)| / min(3, len(top3(reference)), len(top3(arm)))",
+    "stability_pct": "100 * (0.5 * top3_membership_overlap_ratio + 0.5 * (kendall_tau + 1)/2); falls back to 100 * overlap_ratio when kendall_tau is undefined",
+    "stability_delta_pct": "stability_pct - 100 (reference arm is 0.0 by definition)",
+    "cost_reduction_pct": "100 * (baseline_cost_usd - allocated_cost_usd) / baseline_cost_usd against ARM_ALL_HIGH"
+  },
+  "source": {
+    "records_dir": "artifacts\\records",
+    "n_record_files": 9,
+    "rounds": [
+      0,
+      1,
+      2
+    ],
+    "arms_present": [
+      "all_high",
+      "all_low",
+      "allocated"
+    ],
+    "arms_missing": []
+  }
+}

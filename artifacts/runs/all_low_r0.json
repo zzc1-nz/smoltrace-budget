@@ -1,0 +1,18 @@
+{
+  "arm": "all_low",
+  "round_index": 0,
+  "run_id": "all_low-r0-66bb13ca",
+  "otel_run_id": "smoltrace-budget-e7d6c7c9016a",
+  "n_tasks": 132,
+  "n_candidates": 5,
+  "n_records": 660,
+  "total_tokens": 2723202,
+  "total_cost_usd": 0.23249295,
+  "wall_ms": 40510.58,
+  "tiers": {
+    "low": 660,
+    "mid": 0,
+    "high": 0
+  },
+  "created_at": "2026-11-11T21:07:21"
+}

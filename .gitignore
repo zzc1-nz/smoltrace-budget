@@ -1,0 +1,26 @@
+# Installed dependencies (pip --target with a pinned smoltrace); recreate with
+#   pip install -r requirements.txt
+.venvlibs/
+
+# Scratch space: probe output, temp dirs, intermediate downloads
+_tmp/
+
+# Upstream SMOLTRACE checkout, read-only reference (not vendored)
+_ref/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# NOTE: artifacts/records, artifacts/allocations, artifacts/leaderboard and
+# artifacts/runs ARE committed on purpose. Together with artifacts/report they are
+# the evidence behind every number in the README, and `scripts/06_audit_readme.py`
+# re-derives the published figures from them in CI. They are ~3.7 MB.
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
